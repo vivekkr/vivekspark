@@ -1,0 +1,10 @@
+UC_TRADE, NFOS, 2017-12-05, Michael, 29, <?xml version="1.0"?><trades><trade id="a1"><objecttype>UC_TRADE</objecttype><price>10</price></trade></trades>
+UC_TRADE, XFOS, 2017-12-05, Andy   , 30, <?xml version="1.0"?><trades><trade id="b2"><objecttype>UC_TRADE</objecttype><price>20</price></trade></trades>
+UC_TRADE, BBU , 2017-12-06, Justin , 31, <?xml version="1.0"?><trades><trade id="c3"><objecttype>UC_TRADE</objecttype><price>30</price></trade></trades>
+UC_TRADE, NFOS, 2017-12-06, Harshad, 32, <?xml version="1.0"?><trades><trade id="d4"><objecttype>UC_TRADE</objecttype><price>40</price></trade></trades>
+UC_TRADE, NFOS, 2017-12-06, Vivek  , 33, <?xml version="1.0"?><trades><trade id="e5"><objecttype>UC_TRADE</objecttype><price>50</price></trade></trades>
+UC_TRADE, XFOS, 2017-12-07, John   , 34, <?xml version="1.0"?><trades><trade id="f6"><objecttype>UC_TRADE</objecttype><price>60</price></trade></trades>
+UC_TRADE, SUMMIT, 2017-12-07, Mark , 35, <?xml version="1.0"?><trades><trade id="g7"><objecttype>UC_TRADE</objecttype><price>70</price></trade></trades>
+UC_TRADE, SUMMIT, 2017-12-08, Paul , 36, <?xml version="1.0"?><trades><trade id="h8"><objecttype>UC_TRADE</objecttype><price>80</price></trade></trades>
+UC_TRADE, BBG, 2017-12-08,    Milo , 37, <?xml version="1.0"?><trades><trade id="i9"><objecttype>UC_TRADE</objecttype><price>90</price></trade></trades>
+UC_TRADE, BBG, 2017-12-09,    Gregg, 38, <?xml version="1.0"?><trades><trade id="j10"><objecttype>UC_TRADE</objecttype><price>111</price></trade></trades>
